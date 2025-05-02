@@ -13,8 +13,8 @@ public static void main(String[] args) throws IOException {
 		Scanner sc = new Scanner(System.in);
 
 		final String SEPERATIONLINE = "------------------------------------------------------------------";
-		final String DATAPATHPRODUCTS = "C:/Users/FKretzschmar/eclipse-workspace/Schule_Schwarzwaldautomat/Data/products.txt";
-		final String DATAPATHPRICES = "C:/Users/FKretzschmar/eclipse-workspace/Schule_Schwarzwaldautomat/Data/prices.txt";
+		final String DATAPATHPRODUCTS = "C:/Users/FKretzschmar/Documents/GitHub/schwarzwald-automat/storage/products.txt";
+		final String DATAPATHPRICES = "C:/Users/FKretzschmar/Documents/GitHub/schwarzwald-automat/storage/prices.txt";
 
 		final int MAINTENANCE = 736493;
 
