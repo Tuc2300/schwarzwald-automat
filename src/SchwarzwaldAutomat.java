@@ -5,7 +5,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class AutomatenGrundfunktionen {
+public class SchwarzwaldAutomat {
 
 public static void main(String[] args) throws IOException {
 
@@ -29,7 +29,6 @@ public static void main(String[] args) throws IOException {
 		int selectionNumber;
 		int internalSelectionNumber;
 		int newPrice;
-		int itemNumber;
 	
 		double changeDouble;
 		double missingMoneyDouble;
